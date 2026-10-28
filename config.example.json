@@ -1,0 +1,12 @@
+{
+  "trae": {
+    "device_id": "",
+    "storage_path": "",
+    "prefer_portrait_monitor": true
+  },
+  "pushplus_token": "",
+  "notify": {
+    "push": true,
+    "toast": true
+  }
+}

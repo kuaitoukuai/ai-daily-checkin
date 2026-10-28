@@ -1,0 +1,27 @@
+# 本地配置与运行产物，不入库
+config.json
+*.local.json
+.env
+
+# 日志与截图
+logs/
+shots/
+*.log
+
+# 临时凭据
+_cred.json
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# 系统
+.DS_Store
+Thumbs.db
